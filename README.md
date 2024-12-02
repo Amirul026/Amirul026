@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirul Momin Utshaw</h1>
-<h3 align="center">A passionate frontend developer crafting interfaces with precision, driven by the mantra: "</Code Hard or Crash Trying/>"</h3>
+<h3 align="center">A passionate frontend developer crafting interfaces with precision, driven by the mantra: "Code Hard or Crash Trying"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirul026&label=Profile%20views&color=0e75b6&style=flat" alt="amirul026" /> </p>
 
